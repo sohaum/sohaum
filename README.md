@@ -41,17 +41,18 @@
 ---
 
 <h3 align="left">✨ Fun Fact:</h3>
-- I love solving coding challenges and exploring data structures. 🧩  
-- When not coding, you can find me exploring photography and graphic design. 🎨📷  
-
+<ul>
+  <li> - I love solving coding challenges and exploring data structures. 🧩  </li>
+  <li> - When not coding, you can find me exploring photography and graphic design. 🎨📷  </li>
+</ul>
 ---
 
 <h3 align="left">🌟 Projects and Highlights:</h3>
 <ul>
-  <li>🔗 [**Color Compression with K-Means**](https://github.com/sohaum/Color-compression)</li>
-  <li>🔗 [**Railway Reservation System**](https://github.com/sohaum/Railway-Reservation-System)</li>
-  <li>🔗 [**Naive Bayes NBA Career Predictor**](https://github.com/sohaum/NBA-Career-Prediction)</li>
-  <li>🔗 [**NOAA EDA**](https://github.com/sohaum/NOAA_EDA): Exploratory Data Analysis on NOAA data for deriving meaningful climate-related insights.</li>
+  <li> 🔗 [**Color Compression with K-Means**](https://github.com/sohaum/Color-compression) </li>
+  <li> 🔗 [**Railway Reservation System**](https://github.com/sohaum/Railway-Reservation-System) </li>
+  <li> 🔗 [**Naive Bayes NBA Career Predictor**](https://github.com/sohaum/NBA-Career-Prediction) </li>
+  <li> 🔗 [**NOAA EDA**](https://github.com/sohaum/NOAA_EDA): Exploratory Data Analysis on NOAA data for deriving meaningful climate-related insights. </li>
 </ul>
 
 ---
