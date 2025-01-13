@@ -47,7 +47,7 @@
 </ul>
 ---
 
-## 🌟 Projects and Highlights
+<h3 align="left">🌟 Projects and Highlights:</h3>
 <ul>
    <li> 🎨 Color Compression with K-Means: [GitHub Link](https://github.com/sohaum/Color-compression) </li>
    <li> 🚉 Railway Reservation System: [GitHub Link](https://github.com/sohaum/Railway-Reservation-System) </li>
@@ -56,5 +56,5 @@
 </ul>
 
 ---
-
+[**Color Compression with K-Means**](https://github.com/sohaum/Color-compression)
 <p align="center">✨ "Strive for progress, not perfection" ✨</p>
