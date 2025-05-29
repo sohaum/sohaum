@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
+<h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/sohaum-ghosh-909966251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/aspect07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
@@ -21,9 +21,9 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools </h3>
+<h2 align="left">🛠️ Languages and Tools </h2>
 
-<h4 align="left"> 🚀 Frontend </h4>
+<h3 align="left"> 🚀 Frontend </h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-## 🧠 Backend
+<h3 align="left"> 🧠 Backend </h3>
 <p align="left">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -64,7 +64,7 @@
   </a>
 </p>
 
-## 🗃️ Databases
+<h3 align="left"> 🗃️ Databases </h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
@@ -77,7 +77,7 @@
   </a>
 </p>
 
-## ☁️ Cloud / DevOps
+<h3 align="left"> ☁️ Cloud / DevOps </h3>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
@@ -90,7 +90,7 @@
   </a>
 </p>
 
-## 📊 Data & Analysis
+<h3 align="left"> 📊 Data & Analysis </h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -115,7 +115,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h2 align="left">📊 GitHub Stats:</h2>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaum&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -124,14 +124,14 @@
 
 ---
 
-<h3 align="left">✨ Fun Fact:</h3>
+<h2 align="left">✨ Fun Fact:</h2>
 <ul>
   <li> I love solving coding challenges and exploring data structures. 🧩  
   <li> When not coding, you can find me exploring photography and graphic design. 🎨📷  
 </ul>
 ---
 
-<h3 align="left">🌟 Projects and Highlights:</h3>
+<h2 align="left">🌟 Projects and Highlights:</h2>
 
  - 🎨 [**Color Compression with K-Means**](https://github.com/sohaum/Color-compression)
  - 🚉 [**Railway Reservation System**](https://github.com/sohaum/Railway-Reservation-System)
