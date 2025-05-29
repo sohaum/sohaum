@@ -21,7 +21,7 @@
 
 ---
 
-# 🛠️ Languages and Tools
+<h3 align="left">🛠️ Languages and Tools </h3>
 
 ## 🚀 Frontend
 <p align="left">
