@@ -23,7 +23,7 @@
 
 <h3 align="left">🛠️ Languages and Tools </h3>
 
-## 🚀 Frontend
+<h4 align="left"> 🚀 Frontend </h4>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
