@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohaum Ghosh</h1>
 <h3 align="center">A passionate engineer from India 🚀</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SAKSHI-1308&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sohaum&label=Profile%20Views&color=blue&style=flat)
 
 <img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding Animation" width="300"/>
 
