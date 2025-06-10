@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohaum Ghosh</h1>
 <h3 align="center">A passionate engineer from India 🚀</h3>
 
-![Profile Views](https://komarev.com/ghb Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats-cards.vercel.app/api/cards/repos-per-language?username=pi/cards/profile-details?username=sohaum&themeproductive-time?username=sohaum&theme=default
-
 <img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding Animation" width="300"/>
 
 - 🌱 Passionate about **building innovative solutions**  
