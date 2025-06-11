@@ -11,7 +11,8 @@
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/sohaum)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sohaum)
+
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
