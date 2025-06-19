@@ -120,7 +120,8 @@
 ---
 
 <h2 align="left">📊 GitHub Stats:</h2>
-![trophy](https://github-profile-trophy.vercel.app/?username=sohaum)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sohaum&theme=dracula&column=4&margin-w=10&no-bg=true)](https://github.com/sohaum/github-profile-trophy)
+
 <p>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaum&show_icons=true&locale=en&layout=compact" alt="Profile Details" />
 </p>
