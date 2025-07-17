@@ -122,14 +122,14 @@
 <h2 align="left">📊 GitHub Stats:</h2>
 
 <p>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaum&show_icons=true&locale=en&layout=compact" alt="Profile Details" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaum&cache_seconds=3600&show_icons=true&locale=en&layout=compact" alt="Profile Details" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaum&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaum&show_icons=true&cache_seconds=3600&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaum&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaum&cache_seconds=3600&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 ---
 
