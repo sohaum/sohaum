@@ -47,6 +47,9 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left"> 🧠 Backend </h3>
