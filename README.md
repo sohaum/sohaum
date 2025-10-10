@@ -92,9 +92,9 @@
   <a href="https://strapi.io/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" alt="Strapi" width="40" height="40"/>
   </a>
-  <a href="https://www.contentful.com/" target="_blank">
+  <!-- <a href="https://www.contentful.com/" target="_blank">
     <img src="https://cmscritic.com/products/contentful" alt="Contentful" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left"> ☁️ Cloud / DevOps </h3>
