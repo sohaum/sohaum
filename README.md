@@ -66,6 +66,9 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left"> 🗃️ Databases </h3>
@@ -78,6 +81,16 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left"> 🌐 CMS </h3>
+<p align="left">
+  <a href="https://strapi.io/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" alt="Strapi" width="40" height="40"/>
+  </a>
+  <a href="https://www.contentful.com/" target="_blank">
+    <img src="https://images.ctfassets.net/fo9twyrwpveg/5X95F2iTFTUQOigWQYtQik/8cb4cf8f051444839e5f23d405ff8f31/contentful-logo.svg" alt="Contentful" width="40" height="40"/>
   </a>
 </p>
 
