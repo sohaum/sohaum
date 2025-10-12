@@ -97,6 +97,7 @@ Building scalable web applications and exploring the intersection of software en
 ## 🎯 Featured Projects
 
 **[Railway Reservation System](https://github.com/sohaum/Railway-Reservation-System)** - Comprehensive railway booking platform with real-time availability and booking management.
+
 **[Aura Finance](https://github.com/sohaum/Aura-Finance)** - Personal finance management app for expense tracking and financial insights.
 
 ---
