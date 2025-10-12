@@ -74,7 +74,9 @@ Building scalable web applications and exploring the intersection of software en
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sohaum&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaum&theme=tokyonight" alt="Contribution Graph" />
 
 </div>
 
