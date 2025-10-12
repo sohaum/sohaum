@@ -4,8 +4,11 @@
 
 Building scalable web applications and exploring the intersection of software engineering and data science.
 
+![Profile Views](https://komarev.com/ghpvc/?username=sohaum&color=blueviolet&style=flat)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaum-ghosh-909966251)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/aspect07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-five-flax-16.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaumghosh@gmail.com)
 
 ---
@@ -53,27 +56,24 @@ Building scalable web applications and exploring the intersection of software en
 
 ---
 
-## 🎯 Featured Projects
-
-### [Railway Reservation System](https://github.com/sohaum/Railway-Reservation-System)
-A comprehensive railway booking platform with real-time seat availability, user authentication, and booking management.
-
-**Tech:** Java, MySQL, JDBC
-
----
-
-### [Aura Finance](https://github.com/sohaum/Aura-Finance)
-Personal finance management application for tracking expenses and financial insights.
-
-**Tech:** React, Node.js, MongoDB
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=sohaum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaum&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ⚡ Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohaum&theme=tokyonight&hide_border=true)
 
@@ -81,23 +81,16 @@ Personal finance management application for tracking expenses and financial insi
 
 ---
 
-## 📈 What's Next?
+## 🎯 Featured Projects
 
-I'm always looking to expand my skill set. Here are areas I'm exploring:
+**[Railway Reservation System](https://github.com/sohaum/Railway-Reservation-System)** - Comprehensive railway booking platform with real-time availability and booking management.
 
-- **System Design**: Learning distributed systems and microservices architecture
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines
-- **Advanced Backend**: gRPC, message queues (RabbitMQ, Kafka)
-- **Mobile Development**: React Native for cross-platform apps
-- **Cloud Architecture**: AWS solutions architect patterns
-- **Testing**: Jest, React Testing Library, Cypress for comprehensive test coverage
+**[Aura Finance](https://github.com/sohaum/Aura-Finance)** - Personal finance management app for expense tracking and financial insights.
 
 ---
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-![Profile Views](https://komarev.com/ghpvc/?username=sohaum&color=blueviolet&style=flat)
+*"The only way to do great work is to love what you do." – Steve Jobs*
 
 </div>
