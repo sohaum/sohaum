@@ -1,5 +1,11 @@
 # Hi, I'm Sohaum Ghosh 👋
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Software+Engineer;Data+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
+
+</div>
+
 **Software Engineer** | Full-Stack Developer | Data Enthusiast
 
 Building scalable web applications and exploring the intersection of software engineering and data science.
@@ -59,6 +65,12 @@ Building scalable web applications and exploring the intersection of software en
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=sohaum&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+<div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=sohaum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaum&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
@@ -76,7 +88,7 @@ Building scalable web applications and exploring the intersection of software en
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaum&theme=tokyonight" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohaum&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
