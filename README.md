@@ -1,172 +1,103 @@
-<h1 align="center">Hi 👋, I'm Sohaum Ghosh</h1>
-<h3 align="center">A passionate engineer from India 🚀</h3>
+# Hi, I'm Sohaum Ghosh 👋
 
-<img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding Animation" width="300"/>
+**Software Engineer** | Full-Stack Developer | Data Enthusiast
 
-- 🌱 Passionate about **building innovative solutions**  
-- 💻 Exploring **the realms of code and creativity**  
-- 🧠 Currently learning **Reinforcement Learning and Advanced Data Analytics**  
-- 🎨 I enjoy blending **technology with creativity** to solve complex problems.  
-- 📫 How to reach me: **sohaumghosh@gmail.com**
+Building scalable web applications and exploring the intersection of software engineering and data science.
 
----
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sohaum)
-
-
-<h2 align="left">🔗 Connect with me:</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/sohaum-ghosh-909966251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/aspect07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaum-ghosh-909966251)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/aspect07)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaumghosh@gmail.com)
 
 ---
 
-<h2 align="left">🛠️ Languages and Tools </h2>
+## 🚀 Current Focus
 
-<h3 align="left"> 🚀 Frontend </h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank">
-    <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left"> 🧠 Backend </h3>
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left"> 🗃️ Databases </h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left"> 🌐 CMS </h3>
-<p align="left">
-  <a href="https://strapi.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" alt="Strapi" width="40" height="40"/>
-  </a>
-  <!-- <a href="https://www.contentful.com/" target="_blank">
-    <img src="https://cmscritic.com/products/contentful" alt="Contentful" width="40" height="40"/>
-  </a> -->
-</p>
-
-<h3 align="left"> ☁️ Cloud / DevOps </h3>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left"> 📊 Data & Analysis </h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/>
-  </a>
-   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
-  </a>
-</p>
-
+- Building modern web applications with **React**, **Material-UI**, and **GraphQL**
+- Working with **Strapi CMS** for headless content management
+- Learning **Reinforcement Learning** and advanced data analytics techniques
+- Exploring scalable architecture patterns and system design
 
 ---
 
-<h2 align="left">📊 GitHub Stats:</h2>
+## 💻 Tech Stack
 
-<p>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaum&cache_seconds=3600&show_icons=true&locale=en&layout=compact" alt="Profile Details" />
-</p>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaum&show_icons=true&cache_seconds=3600&locale=en&layout=compact" alt="Top Languages" />
-</p>
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaum&cache_seconds=3600&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Data Science & ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
+
+**Tools & Platforms**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
-<h2 align="left">✨ Fun Fact:</h2>
-<ul>
-  <li> I love solving coding challenges and exploring data structures. 🧩  
-  <li> When not coding, you can find me exploring photography and graphic design. 🎨📷  
-</ul>
----
+## 🎯 Featured Projects
 
-<h2 align="left">🌟 Projects and Highlights:</h2>
+### [Railway Reservation System](https://github.com/sohaum/Railway-Reservation-System)
+A comprehensive railway booking platform with real-time seat availability, user authentication, and booking management.
 
- - 🎨 [**Color Compression with K-Means**](https://github.com/sohaum/Color-compression)
- - 🚉 [**Railway Reservation System**](https://github.com/sohaum/Railway-Reservation-System)
- - 🏀 [**Naive Bayes NBA Career Predictor**](https://github.com/sohaum/NBA-Career-Prediction)
- - 🌍 [**NOAA EDA**](https://github.com/sohaum/NOAA_EDA): Exploratory Data Analysis on NOAA data for deriving meaningful climate-related insights.
-
+**Tech:** Java, MySQL, JDBC
 
 ---
 
-<p align="center">✨ "Strive for progress, not perfection" ✨</p>
+### [Aura Finance](https://github.com/sohaum/Aura-Finance)
+Personal finance management application for tracking expenses and financial insights.
+
+**Tech:** React, Node.js, MongoDB
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=sohaum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sohaum&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 What's Next?
+
+I'm always looking to expand my skill set. Here are areas I'm exploring:
+
+- **System Design**: Learning distributed systems and microservices architecture
+- **DevOps**: Docker, Kubernetes, CI/CD pipelines
+- **Advanced Backend**: gRPC, message queues (RabbitMQ, Kafka)
+- **Mobile Development**: React Native for cross-platform apps
+- **Cloud Architecture**: AWS solutions architect patterns
+- **Testing**: Jest, React Testing Library, Cypress for comprehensive test coverage
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sohaum&color=blueviolet&style=flat)
+
+</div>
