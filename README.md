@@ -1,7 +1,16 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Sohaum Ghosh
 
 <div align="center">
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=sohaum&color=00D9FF&style=flat-square&label=Profile+Views)
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaum-ghosh-909966251)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/aspect07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-five-flax-16.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaumghosh@gmail.com)
+
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║  Full-Stack Developer  |  Software Engineer  |  Builder  ║
@@ -53,14 +62,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohaum&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
----
-
 ### 💼 Featured Projects
 
 <table>
@@ -102,34 +103,13 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaum-ghosh-909966251)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/aspect07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-five-flax-16.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaumghosh@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+*"The only way to do great work is to love what you do."* – **Steve Jobs**
 
 ---
-
-### 📊 Profile Stats
-
-![](https://komarev.com/ghpvc/?username=sohaum&color=00D9FF&style=flat-square&label=Profile+Views)
-
----
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
