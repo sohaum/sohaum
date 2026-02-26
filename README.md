@@ -58,23 +58,6 @@ Building scalable web applications and exploring the intersection of software en
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=sohaum&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=sohaum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaum&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-
-</div>
-
----
-
 ## ⚡ Coding Activity
 
 <div align="center">
