@@ -30,8 +30,7 @@ role:     Full-Stack Software Engineer
 focus:
   - Modern web apps (React, Next.js, GraphQL)
   - Headless CMS with Strapi
-  - ML / Reinforcement Learning (learning 📖)
-  - Scalable system design
+  - AI / LLMs (learning 📖)
 currently_building: "Things that matter"
 open_to:  Collaborations, interesting problems
 ```
