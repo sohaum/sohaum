@@ -24,7 +24,7 @@ Building scalable web applications and exploring the intersection of software en
 
 - Building modern web applications with **React**, **Material-UI**, and **GraphQL**
 - Working with **Strapi CMS** for headless content management
-- Learning **Reinforcement Learning** and advanced data analytics techniques
+- Learning **Large Language Models**
 - Exploring scalable architecture patterns and system design
 
 ---
