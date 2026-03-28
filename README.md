@@ -38,6 +38,10 @@ Building scalable web applications and exploring the intersection of software en
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+**Content Management Systems (CMS)** 
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-24303C?style=flat&logo=contentful&logoColor=white)
+
 **Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
