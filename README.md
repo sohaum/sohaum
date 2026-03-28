@@ -59,16 +59,6 @@ Building scalable web applications and exploring the intersection of software en
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sohaum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 ## ⚡ Coding Activity
 
 <div align="center">
