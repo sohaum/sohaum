@@ -73,8 +73,6 @@ Building scalable web applications and exploring the intersection of software en
 </div>
 
 ---
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
----
 
 ## 🎯 Featured Projects
  
