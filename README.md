@@ -22,8 +22,8 @@ Building scalable web applications and exploring the intersection of software en
 
 ## 🚀 Current Focus
 
-- Building modern web applications with **React**, **Material-UI**, and **GraphQL**
-- Working with **Strapi CMS** for headless content management
+- Building modern web applications with **Next.js** and **GraphQL** to ensure type-safety and rapid data fetching
+- Working with **Contentful CMS** for headless content management, enabling seamless **Content Authoring** and flexible UI updates
 - Learning **Large Language Models**
 - Exploring scalable architecture patterns and system design
 
