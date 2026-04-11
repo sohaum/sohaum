@@ -79,10 +79,10 @@ Building scalable web applications and exploring the intersection of software en
 ---
 
 ## 🎯 Featured Projects
-
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🔍 AuditFlow](https://github.com/sohaum/AuditFlow) | High-performance SEO auditing tool with a recursive crawler, real-time progress via SSE, and a filterable issue dashboard | Next.js · TypeScript · Tailwind · SSE |
+| [⚡ SortLab](https://github.com/sohaum/SortLab) | Real-time sorting algorithm visualizer with step-through playback, race mode, live stats, and audio feedback | React · Vite · Tailwind v4 · shadcn/ui |
 | [🚆 Railway Reservation System](https://github.com/sohaum/Railway-Reservation-System) | Full-featured railway booking platform with real-time availability and booking management | Node.js · PostgreSQL |
 | [💰 Aura Finance](https://github.com/sohaum/Aura-Finance) | Personal finance app for expense tracking and actionable financial insights | React · Firebase |
  
